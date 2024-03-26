@@ -21,7 +21,7 @@
                                 
 #### Fluxo alternativo
 
-| Se o sistema detectar que as informações fornecidas são inválidas ou já existem em outra conta, ele notificará o usuário e solicitará que ele corrija os campos relevantes. |
+ FA-01 Se o sistema detectar que as informações fornecidas são inválidas ou já existem em outra conta, ele notificará o usuário e solicitará que ele corrija os campos relevantes.
 
 
 
